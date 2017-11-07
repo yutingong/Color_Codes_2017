@@ -9,12 +9,9 @@ It tests the limits of our visual perception in our user interface experiences a
 
 <i>Color Codes</i> is open source and welcomes collaboration from coders, artists, designers etc... anyone who would like to innovate and build upon the blueprint/design.
 This project supports creativity + innovation + learning + design + coding + art + collaboration.
-<h3>Prerequisites</h3>
+<h3>Collaboration</h3>
 
-<p>Text editor, i.e. Atom</p>
-<p>Terminal</p>
-
-How to request a pull?
+<p>How to request a pull?</p>
 
 <h3>Built With</h3>
 
