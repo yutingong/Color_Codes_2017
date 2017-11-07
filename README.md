@@ -8,11 +8,11 @@ It tests the limits of our visual perception in our user interface experiences a
 <h3>Getting Started</h3>
 
 <i>Color Codes</i> is open source and welcomes collaboration from coders, artists, designers etc... anyone who would like to innovate and build upon the blueprint/design.
-This project supports creativity + innovation + learning + programming + art + collaboration.
+This project supports creativity + innovation + learning + design + coding + art + collaboration.
 <h3>Prerequisites</h3>
 
-Text editor, i.e. Atom
-Terminal
+<p>Text editor, i.e. Atom</p>
+<p>Terminal</p>
 
 How to request a pull?
 
