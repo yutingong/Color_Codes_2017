@@ -11,7 +11,7 @@ It tests the limits of our visual perception in our user interface experiences a
 This project supports creativity + innovation + learning + design + coding + art + collaboration.
 <h3>Collaboration</h3>
 
-<p>How to request a pull?</p>
+<p>Via Pull Requests</p>
 
 <h3>Built With</h3>
 
