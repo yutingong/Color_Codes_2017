@@ -1,4 +1,4 @@
-# Color Codes
+# Color Codes, 2017
 
 <p>My practice probes into the fluid materialty of paint and the fluid boundaries painting shares with other disciplines.
 <i>Color Codes</i> was created with html + css codes, where codes are the ingredients to image making as much as paint is.
