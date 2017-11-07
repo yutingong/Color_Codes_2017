@@ -1,0 +1,267 @@
+*{
+  background-color: white;
+  font-family: 'Space Mono';
+  color: hsl(273, 100%, 91%);
+}
+
+.container{
+  background-color: white;
+  max-height: 900px;
+  width: 1200px;
+  text-align: right;
+  margin: 75px auto;
+}
+
+
+.box1 {
+  background-color: hsla(225, 100%, 25%, 0.4);
+  width: 125px;
+  height: 125px;
+  border: 10px solid LimeGreen;
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 10;
+  font-size: 2em;
+  transition-property: background-color;
+  transition-duration: 750ms;
+}
+
+a.fill-div1 {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.box1:hover {
+  background-color: LimeGreen;
+  cursor : se-resize;
+}
+
+.box2 {
+  background-color: hsla(225, 100%, 50%, 0.4);
+  width: 200px;
+  height: 200px;
+  border: 10px solid rgb(0, 128, 0);
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 9;
+  transition-property: background-color;
+  transition-duration: 750ms;
+}
+
+
+.box2:hover {
+  background-color: rgb(0, 128, 0);
+  cursor : se-resize;
+}
+
+
+.box3 {
+  background-color: hsla(325, 50%, 50%, 0.6);
+  width: 275px;
+  height: 275px;
+  border: 10px solid hsl(318, 100%, 60%);
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 8;
+  transition-property: background-color;
+  transition-duration: 750ms;
+}
+
+a.fill-div3 {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+.box3:hover {
+  background-color: hsl(318, 100%, 60%);
+  cursor : se-resize;
+}
+
+.box4 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 350px;
+  height: 350px;
+  border: 10px solid hsl(41, 99%, 49%);
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 7;
+  transition-property: background-color;
+  transition-duration: 750ms;
+}
+
+
+.box4:hover {
+  background-color: hsl(41, 99%, 49%);
+  cursor : se-resize;
+}
+
+.box5 {
+  background-color: hsl(23, 100%, 53%);
+  width: 425px;
+  height: 425px;
+  border: 10px solid hsl(209, 100%, 50%);
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 6;
+  transition-property: background-color;
+  transition-duration: 750ms;
+}
+
+a.fill-div5 {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.box5:hover {
+  background-color: hsl(209, 100%, 50%);
+  cursor : se-resize;
+}
+
+.box6 {
+  background-color: hsl(0, 70%, 51%);
+  width: 500px;
+  height: 500px;
+  border: 10px solid hsl(157, 99%, 49%);
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 5;
+  transition-property: background-color;
+  transition-duration: 750ms;
+}
+
+a.fill-div6 {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.box6:hover {
+  background-color: hsl(157, 99%, 49%);
+  cursor : se-resize;
+}
+
+.box7 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 575px;
+  height: 575px;
+  border: 10px solid pink;
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 4;
+  transition-property: background-color;
+  transition-duration: 750ms;
+}
+
+.box7:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box8 {
+  background-color: rgba(255, 255, 255, 0.1);
+  width: 650px;
+  height: 650px;
+  border: 10px solid pink;
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 3;
+  transition-property: background-color;
+  transition-duration: 750ms;
+}
+
+.box8:hover {
+  background-color: hsl(351, 95%, 82%);
+  cursor : se-resize;
+}
+
+.box9 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 725px;
+  height: 725px;
+  border: 10px solid pink;
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 2;
+  transition-property: background-color;
+  transition-duration: 750ms;
+}
+
+a.fill-div9 {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.box9:hover {
+  background-color: white;
+  cursor : se-resize;
+}
+
+.box10 {
+  background-color: black;
+  width: 800px;
+  height: 800px;
+  max-height: 1000px;
+  border: 10px solid pink;
+  position: absolute;
+  top: 15%;
+  left: 30%;
+  z-index: 1;
+  transition-property: height;
+  transition-duration: 750ms;
+}
+
+.box10:hover {
+  background-color: white;
+  cursor : se-resize;
+}
+
+
+
+h1{
+  padding-left: 20px;
+}
+
+
+h1 a{
+ color: hsl(273, 95%, 50%);
+}
+
+
+
+h1 a:hover{
+  color: limegreen;
+}
+
+
+
+.footer{
+  margin-top: 1100px;
+  margin-right: 50px;
+  display: flex;
+justify-content: flex-end;
+
+}

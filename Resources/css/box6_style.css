@@ -1,0 +1,911 @@
+*{
+  background-color: white;
+}
+h1{
+  padding-left: 20px;
+}
+
+
+h1 a{
+ color: hsl(273, 95%, 50%);
+}
+
+
+
+h1 a:hover{
+  color: limegreen;
+}
+
+.container{
+  background-color: white;
+  max-height: 900px;
+  width: 1200px;
+  text-align: right;
+  margin: 75px auto;
+}
+
+/* Box 1-10 */
+.box1 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 40px;
+  height: 40px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 50;
+  font-size: 2em;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box1:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box2 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 60px;
+  height: 60px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 49;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+
+.box2:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+
+.box3 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 80px;
+  height: 80px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 48;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+
+.box3:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box4 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 100px;
+  height: 100px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 47;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+
+
+.box4:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box5 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 120px;
+  height: 120px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 46;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+
+.box5:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box6 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 140px;
+  height: 140px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 45;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+.box6:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box7 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 160px;
+  height: 160px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+top: 10%;
+  left: 25%;
+  z-index: 44;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+.box7:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box8 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 180px;
+  height: 180px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 43;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+.box8:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box9 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 200px;
+  height: 200px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 42;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+
+.box9:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box10 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 220px;
+  height: 220px;
+  max-height: 1000px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 41;
+  transition: background-color, 750ms, ease-in, 1s;
+
+
+}
+
+.box10:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+/* Box 11-38 */
+
+
+
+.box11 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 240px;
+  height: 240px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 40;
+  font-size: 2em;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box11:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box12 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 260px;
+  height: 260px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 39;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+
+.box12:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+
+.box13 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 280px;
+  height: 280px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 38;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+
+
+.box13:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box14 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 300px;
+  height: 300px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 37;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+
+.box14:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box15 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 320px;
+  height: 320px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 36;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+
+
+.box15:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box16 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 340px;
+  height: 340px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 35;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+
+.box16:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box17 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 360px;
+  height: 360px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 34;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box17:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box18 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 380px;
+  height: 380px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 33;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box18:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box19 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 400px;
+  height: 400px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 32;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+
+.box19:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+
+.box20 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 420px;
+  height: 420px;
+  max-height: 1000px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 31;
+  transition: background-color, 750ms, ease-in, 1s;
+
+
+}
+
+.box20:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box21 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 440px;
+  height: 440px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 30;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box21:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box22 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 460px;
+  height: 460px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 29;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box22:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box23 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 480px;
+  height: 480px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 28;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+
+.box23:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box24 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 500px;
+  height: 500px;
+  max-height: 1000px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 27;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box24:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box25 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 520px;
+  height: 520px;
+  max-height: 1000px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 26;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box25:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box26 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 540px;
+  height: 540px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 25;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box26:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box27 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 560px;
+  height: 560px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 24;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box27:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box29 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 580px;
+  height: 580px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 23;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+
+.box29:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box30 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 600px;
+  height: 600px;
+  max-height: 1000px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 22;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+.box30:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box31 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 620px;
+  height: 620px;
+  max-height: 1000px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 21;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box31:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box32 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 640px;
+  height: 640px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 20;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box32:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box33 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 660px;
+  height: 660px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 18;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box33:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box34 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 680px;
+  height: 680px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 17;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+
+.box34:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box35 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 700px;
+  height: 700px;
+  max-height: 1000px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 16;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box35:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box36 {
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 720px;
+  height: 720px;
+  max-height: 1000px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 15;
+  transition-property: height;
+  transition-duration: 750ms;
+}
+
+.box36:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box37{
+  display: inline-flex;
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 740px;
+  height: 740px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 14;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box37:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box38{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 760px;
+  height: 760px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 13;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box38:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box39{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 780px;
+  height: 780px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 12;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box39:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box40{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 800px;
+  height: 800px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 11;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box40:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box41{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 820px;
+  height: 820px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 10;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box41:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box42{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 840px;
+  height: 840px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 9;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box42:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box43{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 860px;
+  height: 860px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 8;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box43:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box44{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 880px;
+  height: 880px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 7;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+.box44:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box45{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 900px;
+  height: 900px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 6;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box45:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box46{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 920px;
+  height: 920px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 5;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+.box46:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box47{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 940px;
+  height: 940px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 4;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box47:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box48{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 960px;
+  height: 960px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 3;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box48:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box49{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 980px;
+  height: 980px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 2;
+  transition: background-color, 750ms, ease-in, 1s;
+}
+
+.box49:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
+
+.box50{
+  background-color: rgba(0, 255, 0, 0.1);
+  width: 1000px;
+  height: 1000px;
+  border: 2px solid hsl(277, 28%, 84%);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  z-index: 1;
+  transition: background-color, 750ms, ease-in, 1s;
+
+}
+
+.box50:hover {
+  background-color: hsl(277, 28%, 84%);
+  cursor : se-resize;
+}
