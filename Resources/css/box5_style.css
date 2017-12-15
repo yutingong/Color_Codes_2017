@@ -35,7 +35,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 52%;
   z-index: 19;
   font-size: 2em;
   transition-property: background-color;
@@ -55,7 +55,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 48%;
-  left: 49%;
+  left: 51%;
   z-index: 18;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -76,7 +76,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 46%;
-  left: 48%;
+  left: 50%;
   z-index: 17;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -95,7 +95,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 44%;
-  left: 47%;
+  left: 49%;
   z-index: 16;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -115,7 +115,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 42%;
-  left: 46%;
+  left: 48%;
   z-index: 15;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -134,7 +134,7 @@ h1 a:hover{
   border: 5px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 40%;
-  left: 45%;
+  left: 47%;
   z-index: 14;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -152,7 +152,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 38%;
-  left: 44%;
+  left: 46%;
   z-index: 13;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -170,7 +170,7 @@ h1 a:hover{
   border: 10px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 36%;
-  left: 43%;
+  left: 45%;
   z-index: 12;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -188,7 +188,7 @@ h1 a:hover{
   border: 10px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 34%;
-  left: 42%;
+  left: 44%;
   z-index: 11;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -208,7 +208,7 @@ h1 a:hover{
   border: 10px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 32%;
-  left: 41%;
+  left: 43%;
   z-index: 10;
   transition-property: height;
   transition-duration: 750ms;
@@ -231,7 +231,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 30%;
-  left: 30%;
+  left: 32%;
   z-index: 9;
   font-size: 2em;
   transition-property: background-color;
@@ -250,7 +250,7 @@ h1 a:hover{
   border: 5px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 28%;
-  left: 29%;
+  left: 31%;
   z-index: 8;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -270,7 +270,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 26%;
-  left: 28%;
+  left: 30%;
   z-index: 7;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -290,7 +290,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 24%;
-  left: 27%;
+  left: 29%;
   z-index: 6;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -309,7 +309,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 22%;
-  left: 26%;
+  left: 28%;
   z-index: 5;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -329,7 +329,7 @@ h1 a:hover{
   border: 15px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 15%;
-  left: 25%;
+  left: 27%;
   z-index: 4;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -348,7 +348,7 @@ h1 a:hover{
   border: 5px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 15%;
-  left: 24%;
+  left: 26%;
   z-index: 3;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -366,7 +366,7 @@ h1 a:hover{
   border: 5px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 15%;
-  left: 23%;
+  left: 25%;
   z-index: 2;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -384,7 +384,7 @@ h1 a:hover{
   border: 5px solid hsl(209, 100%, 50%);
   position: absolute;
   top: 15%;
-  left: 22%;
+  left: 24%;
   z-index: 1;
   transition-property: background-color;
   transition-duration: 750ms;
@@ -405,7 +405,7 @@ h1 a:hover{
   border: 10px solid black;
   position: absolute;
   top: 12%;
-  left: 21%;
+  left: 23%;
   z-index: 1;
   transition-property: background-color;
   transition-duration: 750ms;
