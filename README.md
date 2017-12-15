@@ -12,6 +12,7 @@ It pushes the creative limits of our user interface experiences, where visual di
 
 <i>Color Codes</i> is open source and welcomes collaboration from coders, artists, designers etc... anyone who would like to innovate and build upon the blueprint/design.
 This project supports creativity + innovation + learning + design + coding + art + collaboration.
+
 <h3>Collaboration</h3>
 
 <p>Via Pull Requests</p>
@@ -28,3 +29,5 @@ Yu Ting Ong, www.yutingong.com
 <h3>License</h3>
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+<h3><i>Color Codes</i> is optimized for view on Chrome</h3>
