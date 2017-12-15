@@ -42,7 +42,7 @@ h1 a:hover{
 
 .box1:hover {
   background-color: LimeGreen;
-  cursor : se-resize;
+
 }
 
 .box2 {
@@ -62,7 +62,7 @@ h1 a:hover{
 
 .box2:hover {
   background-color: rgb(0, 128, 0);
-  cursor : se-resize;
+
 }
 
 
@@ -82,7 +82,7 @@ h1 a:hover{
 
 .box3:hover {
   background-color: hsl(318, 100%, 60%);
-  cursor : se-resize;
+
 }
 
 .box4 {
@@ -102,7 +102,7 @@ h1 a:hover{
 
 .box4:hover {
   background-color: hsl(41, 99%, 49%);
-  cursor : se-resize;
+
 }
 
 .box5 {
@@ -122,7 +122,7 @@ h1 a:hover{
 .box5:hover {
   border: 10px solid hsl(318, 100%, 60%);
   background-color: hsl(209, 100%, 50%);
-  cursor : se-resize;
+
 }
 
 .box6 {
@@ -141,7 +141,7 @@ h1 a:hover{
 .box6:hover {
   border: 10px solid hsl(318, 100%, 60%);
   background-color: hsl(157, 99%, 49%);
-  cursor : se-resize;
+
 }
 
 .box7 {
@@ -160,7 +160,7 @@ h1 a:hover{
 .box7:hover {
   border: 4px solid hsl(318, 100%, 60%);
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box8 {
@@ -179,7 +179,7 @@ h1 a:hover{
 .box8:hover {
   border: 4px solid hsl(318, 100%, 60%);
   background-color: hsl(351, 95%, 82%);
-  cursor : se-resize;
+
 }
 
 .box9 {
@@ -199,7 +199,7 @@ h1 a:hover{
 .box9:hover {
   border: 4px solid hsl(318, 100%, 60%);
   background-color: white;
-  cursor : se-resize;
+
 }
 
 .box10 {
@@ -220,7 +220,7 @@ h1 a:hover{
 .box10:hover {
   border: 4px solid hsl(318, 100%, 60%);
   background-color: white;
-  cursor : se-resize;
+
 }
 
 /* Box 11-20 */
@@ -245,7 +245,7 @@ h1 a:hover{
 .box11:hover {
   border: 5px solid hsl(318, 100%, 60%);
   background-color: LimeGreen;
-  cursor : se-resize;
+
 }
 
 .box12 {
@@ -267,7 +267,7 @@ h1 a:hover{
 .box12:hover {
   border: 5px solid hsl(318, 100%, 60%);
   background-color: rgb(0, 128, 0);
-  cursor : se-resize;
+
 }
 
 
@@ -290,7 +290,7 @@ transition-duration: 750ms;
 .box13:hover {
   border: 5px solid hsl(318, 100%, 60%);
   background-color: hsl(318, 100%, 60%);
-  cursor : se-resize;
+
 }
 
 .box14 {
@@ -311,7 +311,7 @@ transition-duration: 750ms;
 .box14:hover {
   border: 5px solid hsl(318, 100%, 60%);
   background-color: hsl(41, 99%, 49%);
-  cursor : se-resize;
+
 }
 
 .box15 {
@@ -332,8 +332,7 @@ transition-duration: 750ms;
 
 .box15:hover {
   border: 5px solid hsl(318, 100%, 60%);
-  background-color: hsl(209, 100%, 50%);
-  cursor : se-resize;
+
 }
 
 .box16 {
@@ -354,7 +353,7 @@ transition-duration: 750ms;
 .box16:hover {
   border: 5px solid hsl(318, 100%, 60%);
   background-color: hsl(157, 99%, 49%);
-  cursor : se-resize;
+
 }
 
 .box17 {
@@ -374,7 +373,7 @@ transition-duration: 750ms;
 .box17:hover {
   border: 15px solid hsl(318, 100%, 60%);
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box18 {
@@ -394,7 +393,7 @@ transition-duration: 750ms;
 .box18:hover {
   border: 5px solid hsl(318, 100%, 60%);
   background-color: hsl(351, 95%, 82%);
-  cursor : se-resize;
+
 }
 
 .box19 {
@@ -414,7 +413,7 @@ transition-duration: 750ms;
 
 .box19:hover {
   border: 5px solid pink;
-  cursor : se-resize;
+
 }
 .box20 {
   display: inline-flex;
@@ -434,5 +433,5 @@ transition-duration: 750ms;
 .box20:hover {
 
   border:15px solid hsl(318, 100%, 60%);
-  cursor : se-resize;
+
 }

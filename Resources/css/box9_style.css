@@ -47,7 +47,7 @@ h1 a:hover{
 
 .box1:hover {
   background-color: LimeGreen;
-  cursor : se-resize;
+
 }
 
 .box2 {
@@ -66,7 +66,7 @@ h1 a:hover{
 
 .box2:hover {
   background-color: rgb(0, 128, 0);
-  cursor : se-resize;
+
 }
 
 
@@ -86,7 +86,7 @@ transition-duration: 750ms;
 
 .box3:hover {
   background-color: hsl(318, 100%, 60%);
-  cursor : se-resize;
+
 }
 
 .box4 {
@@ -106,7 +106,7 @@ transition-duration: 750ms;
 
 .box4:hover {
   background-color: hsl(41, 99%, 49%);
-  cursor : se-resize;
+
 }
 
 .box5 {
@@ -125,7 +125,7 @@ transition-duration: 750ms;
 
 .box5:hover {
   background-color: hsl(209, 100%, 50%);
-  cursor : se-resize;
+
 }
 
 .box6 {
@@ -143,7 +143,7 @@ transition-duration: 750ms;
 
 .box6:hover {
   background-color: hsl(157, 99%, 49%);
-  cursor : se-resize;
+
 }
 
 .box7 {
@@ -161,7 +161,7 @@ transition-duration: 750ms;
 
 .box7:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box8 {
@@ -179,7 +179,7 @@ transition-duration: 750ms;
 
 .box8:hover {
   background-color: hsl(351, 95%, 82%);
-  cursor : se-resize;
+
 }
 
 .box9 {
@@ -198,7 +198,7 @@ transition-duration: 750ms;
 
 .box9:hover {
   background-color: white;
-  cursor : se-resize;
+
 }
 
 .box10 {
@@ -217,7 +217,7 @@ transition-duration: 750ms;
 
 .box10:hover {
   background-color: white;
-  cursor : se-resize;
+
 }
 
 /* Box 11-19 */
@@ -237,7 +237,7 @@ transition-duration: 750ms;
 
 .box11:hover {
   background-color: LimeGreen;
-  cursor : se-resize;
+
 }
 
 .box12 {
@@ -257,7 +257,7 @@ transition-duration: 750ms;
 
 .box12:hover {
   background-color: rgb(0, 128, 0);
-  cursor : se-resize;
+
 }
 
 
@@ -278,7 +278,7 @@ transition-duration: 750ms;
 
 .box13:hover {
   background-color: hsl(318, 100%, 60%);
-  cursor : se-resize;
+
 }
 
 .box14 {
@@ -297,7 +297,7 @@ transition-duration: 750ms;
 
 .box14:hover {
   background-color: hsl(41, 99%, 49%);
-  cursor : se-resize;
+
 }
 
 .box15 {
@@ -317,7 +317,7 @@ transition-duration: 750ms;
 
 .box15:hover {
   background-color: hsl(209, 100%, 50%);
-  cursor : se-resize;
+
 }
 
 .box16 {
@@ -336,7 +336,7 @@ transition-duration: 750ms;
 
 .box16:hover {
   background-color: hsl(157, 99%, 49%);
-  cursor : se-resize;
+
 }
 
 .box17 {
@@ -354,7 +354,7 @@ transition-duration: 750ms;
 
 .box17:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box18 {
@@ -372,7 +372,7 @@ transition-duration: 750ms;
 
 .box18:hover {
   background-color: hsl(351, 95%, 82%);
-  cursor : se-resize;
+
 }
 
 .box19 {
@@ -391,5 +391,5 @@ transition-duration: 750ms;
 
 .box19:hover {
   background-color: black;
-  cursor : se-resize;
+
 }

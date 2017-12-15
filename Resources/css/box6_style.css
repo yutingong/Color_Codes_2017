@@ -41,7 +41,7 @@ h1 a:hover{
 
 .box1:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box2 {
@@ -59,7 +59,7 @@ h1 a:hover{
 
 .box2:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 
@@ -79,7 +79,7 @@ h1 a:hover{
 
 .box3:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box4 {
@@ -99,7 +99,7 @@ h1 a:hover{
 
 .box4:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box5 {
@@ -118,7 +118,7 @@ h1 a:hover{
 
 .box5:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box6 {
@@ -136,7 +136,7 @@ h1 a:hover{
 
 .box6:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box7 {
@@ -154,7 +154,7 @@ top: 10%;
 
 .box7:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box8 {
@@ -172,7 +172,7 @@ top: 10%;
 
 .box8:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box9 {
@@ -191,7 +191,7 @@ top: 10%;
 
 .box9:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box10 {
@@ -211,7 +211,7 @@ top: 10%;
 
 .box10:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 /* Box 11-38 */
@@ -233,7 +233,7 @@ top: 10%;
 
 .box11:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box12 {
@@ -251,7 +251,7 @@ top: 10%;
 
 .box12:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 
@@ -271,7 +271,7 @@ top: 10%;
 
 .box13:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box14 {
@@ -289,7 +289,7 @@ top: 10%;
 
 .box14:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box15 {
@@ -308,7 +308,7 @@ top: 10%;
 
 .box15:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box16 {
@@ -326,7 +326,7 @@ top: 10%;
 
 .box16:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box17 {
@@ -343,7 +343,7 @@ top: 10%;
 
 .box17:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box18 {
@@ -360,7 +360,7 @@ top: 10%;
 
 .box18:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box19 {
@@ -379,7 +379,7 @@ top: 10%;
 
 .box19:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 
@@ -400,7 +400,7 @@ top: 10%;
 
 .box20:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box21 {
@@ -417,7 +417,7 @@ top: 10%;
 
 .box21:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box22 {
@@ -434,7 +434,7 @@ top: 10%;
 
 .box22:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box23 {
@@ -452,7 +452,7 @@ top: 10%;
 
 .box23:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box24 {
@@ -470,7 +470,7 @@ top: 10%;
 
 .box24:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box25 {
@@ -488,7 +488,7 @@ top: 10%;
 
 .box25:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box26 {
@@ -505,7 +505,7 @@ top: 10%;
 
 .box26:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box27 {
@@ -522,7 +522,7 @@ top: 10%;
 
 .box27:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box29 {
@@ -540,7 +540,7 @@ top: 10%;
 
 .box29:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box30 {
@@ -559,7 +559,7 @@ top: 10%;
 
 .box30:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box31 {
@@ -577,7 +577,7 @@ top: 10%;
 
 .box31:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box32 {
@@ -594,7 +594,7 @@ top: 10%;
 
 .box32:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box33 {
@@ -611,7 +611,7 @@ top: 10%;
 
 .box33:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box34 {
@@ -629,7 +629,7 @@ top: 10%;
 
 .box34:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box35 {
@@ -647,7 +647,7 @@ top: 10%;
 
 .box35:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box36 {
@@ -666,7 +666,7 @@ top: 10%;
 
 .box36:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box37{
@@ -684,7 +684,7 @@ top: 10%;
 
 .box37:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box38{
@@ -701,7 +701,7 @@ top: 10%;
 
 .box38:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box39{
@@ -718,7 +718,7 @@ top: 10%;
 
 .box39:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box40{
@@ -735,7 +735,7 @@ top: 10%;
 
 .box40:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box41{
@@ -752,7 +752,7 @@ top: 10%;
 
 .box41:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box42{
@@ -769,7 +769,7 @@ top: 10%;
 
 .box42:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box43{
@@ -786,7 +786,7 @@ top: 10%;
 
 .box43:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box44{
@@ -804,7 +804,7 @@ top: 10%;
 
 .box44:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box45{
@@ -821,7 +821,7 @@ top: 10%;
 
 .box45:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box46{
@@ -839,7 +839,7 @@ top: 10%;
 
 .box46:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box47{
@@ -856,7 +856,7 @@ top: 10%;
 
 .box47:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box48{
@@ -873,7 +873,7 @@ top: 10%;
 
 .box48:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box49{
@@ -890,7 +890,7 @@ top: 10%;
 
 .box49:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
 
 .box50{
@@ -908,5 +908,5 @@ top: 10%;
 
 .box50:hover {
   background-color: hsl(277, 28%, 84%);
-  cursor : se-resize;
+
 }
