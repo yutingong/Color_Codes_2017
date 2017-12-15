@@ -423,7 +423,7 @@ transition-duration: 750ms;
   border: 0px solid hsl(318, 100%, 0.1%);
   position: absolute;
   top: 10%;
-  left: 20%;
+  left: 30%;
   z-index: 1;
   transition-property: background-color;
   transition-duration: 750ms;
